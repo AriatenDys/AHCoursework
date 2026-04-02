@@ -1,5 +1,11 @@
 # imports
-import pygame
+import sys
+try:
+    import pygame
+except ImportError:
+    import subprocess
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "pygame"])
+    import pygame
 from physics import physics_setup
 from ui import UI
 from utils import *
