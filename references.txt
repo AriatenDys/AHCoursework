@@ -1,0 +1,55 @@
+Pygame:
+https://www.pygame.org/docs/
+https://www.geeksforgeeks.org/python/pygame-tutorial/
+https://www.tutorialspoint.com/pygame/pygame_displaying_text_window.htm 
+https://www.pygame.org/docs/ref/key.html 
+https://www.pygame.org/docs/ref/rect.html?highlight=collide
+https://stackoverflow.com/questions/46390231/how-can-i-create-a-text-input-box-with-pygame
+https://www.geeksforgeeks.org/python/pygame-tutorial/
+https://www.geeksforgeeks.org/python/python-display-text-to-pygame-window/
+https://stackoverflow.com/questions/20842801/how-to-display-text-in-pygame
+https://www.pygame.org/docs/ref/image.html#pygame.image.load
+https://stackoverflow.com/a/65397627
+
+Physics/Maths:
+Introduction to Electrodynamics Fifth Edition by David J Griffiths
+An Introduction to Modern Astrophysics by Bradley W Carroll
+Mathematical Methods for Physics and Engineering by K F Riley
+https://en.wikipedia.org/wiki/Verlet_integration 
+https://www.youtube.com/watch?v=WTLPmUHTPqo 
+https://en.wikipedia.org/wiki/N-body_problem#Few_bodies 
+https://www.mathopenref.com/coordparamcircle.html 
+https://www.freecodecamp.org/learn/scientific-computing-with-python 
+
+SQLite3 in python:
+https://www.tutorialspoint.com/sqlite/sqlite_python.htm
+https://playbackpress.com/books/sqlitebook/chapter/3/1?comment=20
+https://www.geeksforgeeks.org/python/python-sqlite/
+https://docs.python.org/3/library/sqlite3.html
+https://www.w3schools.com/python/ref_module_sqlite3.asp
+
+New python concepts:
+https://www.w3schools.com/python/ref_func_enumerate.asp 
+https://www.w3schools.com/python/python_match.asp 
+https://www.geeksforgeeks.org/python/user-defined-exceptions-python-examples/
+https://www.w3schools.com/python/python_decorators.asp
+https://www.w3schools.com/python/python_datetime.asp
+https://stackoverflow.com/questions/47204017/opening-and-reading-all-the-files-in-a-directory-in-python-python-beginner
+https://www.w3schools.com/python/python_lambda.asp
+
+
+
+
+Form for feedback:
+https://docs.google.com/forms/d/e/1FAIpQLSc4d1Gdt5c1VMVhj1tnEBNiAbI9icDTMDHYIAPjLJetvFBihw/viewform?usp=dialog
+
+
+1. Ongoing Testing - FR6 - sqlite3
+2. Ongoing Testing - FR6 - pygame
+3. Ongoing Testing - FR8 - error handling
+4. Ongoing Testing - FR8 - Input Box
+5. Ongoing TEsting - FR9 - Option Box
+
+Appendix A - Full program
+Appendix B - Physics techniques
+Appendix C - Form results

@@ -1,0 +1,7 @@
+database/__pycache__
+database/*.db 
+logs/physics.txt
+logs/log.txt
+logs/keys.txt
+src/__pycache__
+src/test.py
